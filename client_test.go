@@ -1,1 +1,1 @@
-package unsplashwebclient
+package uwc

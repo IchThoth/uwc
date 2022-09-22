@@ -1,4 +1,4 @@
-package unsplashwebclient
+package uwc
 
 import (
 	"log"
